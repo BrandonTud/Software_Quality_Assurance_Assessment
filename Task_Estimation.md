@@ -25,3 +25,7 @@
 - **Regularly Review and Adjust:** Continuously evaluate past estimations, track team performance, and adjust estimation techniques based on feedback and historical data.
 
 - **Avoid Biases:** Foster an environment of open discussion and collaboration to prevent biases like anchoring bias from impacting estimation accuracy.
+
+## **Resources:**
+
+1. [agile-estimating-and-planning-summary-by-Myke-Cohn](https://cdn.bookey.app/files/pdf/book/en/agile-estimating-and-planning.pdf) - Mike Cohn shares practical insights on agile estimation techniques and common pitfalls.
