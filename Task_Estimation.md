@@ -28,4 +28,12 @@
 
 ## **Resources:**
 
-1. [agile-estimating-and-planning-summary-by-Myke-Cohn](https://cdn.bookey.app/files/pdf/book/en/agile-estimating-and-planning.pdf) - Mike Cohn shares practical insights on agile estimation techniques and common pitfalls.
+1. [agile estimating and planning summary by Myke Cohn](https://cdn.bookey.app/files/pdf/book/en/agile-estimating-and-planning.pdf) - Mike Cohn shares practical insights on agile estimation techniques and common pitfalls.
+
+2. [Estimating with story points](https://www.agilealliance.org/the-practice-of-sizing-spikes-with-story-points/) - This Agile Alliance article explores the concept of story points and how they facilitate more accurate estimations.
+
+3. [Common estimations Techniques for Agile projects](https://www.scrum.org/resources/blog/exploring-estimation-approaches-what-right-fit-scrum-teams) - Scrum.org offers an overview of popular estimation techniques used in agile projects
+
+4. [The Science and Art of Software Estimation](https://www.infoq.com/articles/software-estimation-important/) - This InfoQ article delves into the complexities of software estimation and strategies for improving accuracy.
+
+5. [How to track and estimate time in Trello](https://wobbly.me/blog/how-to-track-time-in-trello) - This Wobbly article is showing the best way to use trello to improve your time tracking of a task
