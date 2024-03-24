@@ -37,3 +37,5 @@
 4. [The Science and Art of Software Estimation](https://www.infoq.com/articles/software-estimation-important/) - This InfoQ article delves into the complexities of software estimation and strategies for improving accuracy.
 
 5. [How to track and estimate time in Trello](https://wobbly.me/blog/how-to-track-time-in-trello) - This Wobbly article is showing the best way to use trello to improve your time tracking of a task
+
+**Conclusion:** By implementing these guidelines and leveraging insights from the provided resources, our team can enhance the accuracy and reliability of task estimation in our Scrum processes, leading to improved project predictability and delivery success.
