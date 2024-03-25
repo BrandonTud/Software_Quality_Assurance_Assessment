@@ -1,5 +1,10 @@
 # Software_Quality_Assurance_Assessment
 
+| **Team member** | **Contribution** | **Verified by** |
+| --------- | --------- | --------- |
+| Brandon   | - Created the project plan and assigned tasks <br> - Arranged meetings <br> - Did most of the research and wrote most of the section on Task Estimation <br> - Did the Introduction <br> - Set up most of the github repository  | Theo   |
+| Theo   | - Did most of the research and wrote most of the section on Code reviews <br> - Did most of the research and wrote most of the section on Continuous Integration/Continuous Deployment (CI/CD) <br> - Did the conclusion   | Brandon   |
+
 Here you can find the totality of the Handbook Content
 
 # Handbook Content - Introduction
