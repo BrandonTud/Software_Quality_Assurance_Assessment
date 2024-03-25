@@ -1,6 +1,8 @@
 # The Importance of Continuous Integration and Continuous Deployment (CI/CD)
 
-In the IT world, code reviews are very important for improving code quality and encouraging collaboration between developers. Code review is the practice of going back over one's code to try to find bugs or problems in order to improve or correct it. Within a team, the person carrying out the code review is often not the author of the code, to enable him or her to have an external opinion and for the code to be validated by several people. As this article shows, code reviews are essential in companies where teams work together. 
+In the IT world, code reviews are very important for improving code quality and encouraging collaboration between developers. Code review is the practice of going back over one's code to try to find bugs or problems in order to improve or correct it. Within a team, the person carrying out the code review is often not the author of the code, to enable him or her to have an external opinion and for the code to be validated by several people. As this article shows, code reviews are essential in companies where teams work together.
+
+![Continuous Integration / Continuous Deployment](image.png)
 
 "[Code reviews play a pivotal role in ensuring the quality, reliability, and maintainability of software projects. By fostering a culture of collaboration, sharing knowledge, and maintaining coding standards, teams can harness the full potential of code reviews to deliver high-quality software products.](https://codeinstitute.net/global/blog/the-importance-of-code-reviews/#:~:text=Code%20reviews%20play%20a%20pivotal,deliver%20high%2Dquality%20software%20products.)"
 
